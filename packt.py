@@ -1,5 +1,6 @@
 #
 import bs4, urllib2
+<<<<<<<
 
 def checkforbook():
     booklist = file('mybooks.txt')
@@ -12,6 +13,9 @@ def checkforbook():
     return found
 
 
+=======
+
+>>>>>>>
 page = urllib2.urlopen("https://www.packtpub.com/packt/offers/free-learning")
 soup = bs4.BeautifulSoup(page, "lxml")
 #Making the soup
