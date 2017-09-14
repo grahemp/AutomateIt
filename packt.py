@@ -1,14 +1,27 @@
 #
 import bs4, urllib2
-# import urllib2
+
+def checkforbook():
+    booklist = file('mybooks.txt')
+    found = False
+    for line in booklist:
+        if dotd.text.strip() in line:
+            found = True
+            break
+
+    return found
+
+
 page = urllib2.urlopen("https://www.packtpub.com/packt/offers/free-learning")
-# myfile = open('page.html')
 soup = bs4.BeautifulSoup(page, "lxml")
 #Making the soup
-# print "BeautifulSoup Object:", type(soup)
 dotd = soup.find(class_="dotd-title")
-# print(type(dotd))
 print dotd.text.strip()
-#book-title = dotd.text
-#print book-title.strip()
-#print "Book Title:", soup.find("class",{"id":"dotd-title"}).getText()
+
+# if dotd.text.strip() in open('list.txt').read():
+#     print "Already have this one!"
+gotit = checkforbook()
+if gotit:
+    print "I have this one."
+else:
+    print "This is a new one!"

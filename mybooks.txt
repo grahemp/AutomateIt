@@ -1,0 +1,536 @@
+C# Programming Cookbook
+Mastering Social Media Mining with Python
+Getting Started with Kubernetes - Second Edition
+Mastering Kubernetes
+Kubernetes Cookbook
+Bootstrap Site Blueprints Volume II
+Automate it! - Recipes to upskill your business
+Learning Vue.js 2
+Learning Go programming
+Learning Web Development with React and Bootstrap
+Android Design Patterns and Best Practice
+TensorFlow Machine Learning Cookbook
+ROS Robotics Projects
+ReactJS Blueprints
+The Android Game Developer's Handbook
+Getting Started with TensorFlow
+Unity 5.x Shaders and Effects Cookbook
+Delphi Cookbook
+Learning Angular 2
+Bitcoin Essentials
+Node.js Design Patterns - Second Edition
+Learning Flask Framework
+OpenCV 3 Blueprints
+Advanced Penetration Testing for Highly-Secured Environments: The Ultimate Security Guide
+DevOps: Puppet, Docker, and Kubernetes
+The Professional ScrumMaster's Handbook
+Network Analysis using Wireshark Cookbook
+Mastering Node.js
+GeoServer Beginner’s Guide
+Linux Shell Scripting Cookbook, Second Edition
+Git: Version Control for Everyone
+HTML5 and CSS3 Responsive Web Design Cookbook
+scikit-learn Cookbook
+Mastering Hadoop
+MongoDB Cookbook
+Mastering Machine Learning with scikit-learn
+Node.js Blueprints
+Arduino Robotic Projects
+Mastering D3.js
+Responsive Web Design with HTML5 and CSS3 - Second Edition
+AngularJS by Example
+Mastering Julia
+Clean Data
+Mastering Python Design Patterns
+Mastering Python
+Modular Programming with Python
+RESTful Web API Design with Node.js
+Learning Probabilistic Graphical Models in R
+Scala Design Patterns
+Mastering Git
+Learning Python for Forensics
+Machine Learning in Java
+Python Geospatial Development - Third Edition
+Practical Internet of Things Security
+Spring Microservices
+Expert Python Programming - Second Edition
+Advanced Machine Learning with Python
+Kali Linux 2: Windows Penetration Testing
+Modern Python Cookbook
+Python GUI Programming Cookbook
+Building a Home Security System with Raspberry Pi
+Effective Python Penetration Testing
+OpenCV By Example
+Building Business Websites with Squarespace 7
+Practical Machine Learning
+Learning Python Application Development
+Learning Robotics Using Python
+Raspberry Pi By Example
+TypeScript Design Patterns
+Practical Linux Security Cookbook
+IPython Interactive Computing and Visualization Cookbook
+Mastering Wireshark
+Learning Linux Binary Analysis
+Practical DevOps
+Tkinter GUI Application Development Blueprints
+PostgreSQL 9 Admin Cookbook
+Learning Object-Oriented Programming
+Practical Digital Forensics
+Raspberry Pi for Secret Agents - Second Edition
+Python 3 Object-oriented Programming - Second Edition
+Learning PHP 7
+Git Best Practices Guide
+Flask By Example
+Learning Reactive Programming with Java 8
+R Deep Learning Essentials
+OpenCV Computer Vision with Python
+Mastering matplotlib
+WordPress 4.x Complete
+Hadoop Explained
+Advanced Penetration Testing for Highly-Secured Environments - Second Edition
+Magento 2 Developer's Guide
+C# 6 and .NET Core 1.0: Modern Cross-Platform Development
+Switching to Angular 2
+Learning Data Mining with Python
+Learning Java Functional Programming
+Creative Greenfoot
+OpenCV for Secret Agents
+Python Game Programming By Example
+Arduino Development Cookbook
+Learning Raspberry Pi
+Learning Scrapy
+Mastering Windows PowerShell Scripting
+Learning TypeScript
+Django By Example
+Learning Bayesian Models with R
+Building a Recommendation System with R
+R Data Visualization Cookbook
+Mastering R for Quantitative Finance
+Mastering Social Media Mining with R
+Test-Driven iOS Development with Swift
+Machine Learning with R - Second Edition
+R Graphs Cookbook Second Edition
+D3.js By Example
+What You Need to Know about Machine Learning
+Mastering Linux Shell Scripting
+Using CiviCRM
+Statistical Analysis with R
+Python Geospatial Development - Second Edition
+Learning Python Network Programming
+Machine Learning with Spark
+Learning pandas
+Python 3 Text Processing with NLTK 3 Cookbook
+Wireshark Essentials
+NHibernate 3.0 Cookbook
+Mastering Object-oriented Python
+Practical Data Science Cookbook
+Learning Ext JS 4
+MySQL for Python
+Practical Responsive Typography
+Python 3 Web Development Beginner's Guide
+Learning PostgreSQL
+Learning Penetration Testing with Python
+Test-Driven Java Development
+Java EE 6 with GlassFish 3 Application Server[eBook]
+Data Analysis with R
+Mastering Embedded Linux Programming
+JavaScript Testing Beginner's Guide
+Learning AWS
+Amazon Web Services: Migrating your .NET Enterprise Application
+Mastering AWS Development
+The DevOps 2.0 Toolkit
+Drupal 6 Search Engine Optimization
+Kali Linux Wireless Penetration Testing: Beginner's Guide
+Functional Python Programming
+Learning Docker
+Python Parallel Programming Cookbook
+Instant MongoDB
+Neural Network Programming with Java
+Mastering JavaScript High Performance
+Mastering Python for Finance
+Learning C++ by Creating Games with UE4
+Learning ECMAScript 6
+What You Need To Know About Node.js
+Unity 5.x Cookbook
+Python Machine Learning
+Mastering JavaScript
+Blender 3D by Example
+Rust Essentials
+GitHub Essentials
+Go Programming Blueprints
+Android Programming for Beginners
+Getting Started with PowerShell
+JasperReports 3.5 for Java Developers
+Blender 2.5 Materials and Textures Cookbook
+ASP.NET Data Presentation Controls Essentials
+MediaWiki Administrators’ Tutorial Guide
+Learning Vaadin 7: Second Edition
+Cross-platform UI Development with Xamarin.Forms
+Mastering C# Concurrency
+Multithreading with C# Cookbook - Second Edition
+Learning .NET High-performance Programming
+Object-Oriented Programming with PHP5
+Learning jQuery, Third Edition
+Thinking in CSS
+Mastering AngularJS Directives
+Learning Web Development with Bootstrap and AngularJS
+Mastering React
+AngularJS UI Development
+React.js Essentials
+AngularJS Web Application Development Cookbook
+OpenCV 2 Computer Vision Application Programming Cookbook
+Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook
+Applied Architecture Patterns on the Microsoft Platform (Second Edition)
+Testing and Securing Android Studio Applications
+Boost C++ Application Development Cookbook
+Google SketchUp for Game Design: Beginner's Guide
+Social Media Mining with R
+HBase Essentials
+Mockito Essentials
+Mastering ElasticSearch
+3D Printing Blueprints
+Advanced Express Web Application Development
+Nagios Core Administration Cookbook
+Implementing Splunk: Big Data Reporting and Development for Operational Intelligence
+Learning iOS 8 for Enterprise
+Python Unlocked
+Python for Secret Agents
+Learning Python Design Patterns
+Python Data Analysis
+Expert Python Programming
+Jasmine JavaScript Testing
+Managing Windows Servers with Chef
+Ext JS 4 Web Application Development Cookbook
+What You Need to Know about Python
+Big Data Analytics with R and Hadoop
+Learning R for Geospatial Analysis
+R Object-oriented Programming
+What You Need to Know about JavaScript
+What you need to know about R
+R for Data Science
+Internet of Things with Arduino Blueprints
+Internet of Things with Intel Galileo
+Learning Internet of Things
+Augmented Reality for Android Application Development
+What you need to know about Unity 5
+What you need to know about Angular 2
+Getting Started with Ghost
+Learning SciPy for Numerical and Scientific Computing
+Programming ArcGIS 10.1 with Python Cookbook
+Learning Python
+Android Game Programming by Example
+Android Wearable Programming
+Mastering Android NDK
+Learning Java by Building Android Games
+Mastering Android Application Development
+Gradle Effective Implementation Guide
+Instant QlikView 11 Application Development
+ASP.NET Web API: Build RESTful web applications and services on the .NET framework
+Thinking in JavaScript
+Raspberry Pi Media Center
+Getting Started with HTML5 WebSocket Programming
+OpenGL Development Cookbook
+Mastering Ext JS
+GitLab Repository Management
+Implementing Cisco UCS Solutions
+VMware Horizon 6 Desktop Virtualization Solutions
+Clojure High Performance Programming
+Developing RESTful Services with JAX-RS 2.0, WebSockets and JSON
+Blender 2.5 Character Animation Cookbook
+Java 7 Concurrency Cookbook
+Oracle Solaris 11 Advanced Administration Cookbook
+StartupPro: How to set up and grow a tech business
+Kali Linux Social Engineering
+wxPython 2.8 Application Development Cookbook
+Xamarin Mobile Application Development for iOS
+Learning NGUI for Unity
+HBase Design Patterns
+Mastering Apache Cassandra
+Linux Mint Essentials
+Skill Up 2016: Developer Skills Report
+Node Security
+PySide GUI Application Development
+Mastering Python Regular Expressions
+R Graph Essentials
+CentOS 6 Linux Server Cookbook
+Optimizing Hadoop for MapReduce
+Getting Started with Red Hat Enterprise Virtualization
+Docker: Creating Structured Containers
+Learning AndEngine
+Making Big Data Work for Your Business
+Skill Up Report 2016
+Oracle Database 11gR2 Performance Tuning Cookbook
+Learning NumPy Array
+Learning Metasploit Exploitation and Development
+Force.com Development Blueprints
+Learning JavaScript Data Structures and Algorithms
+Node.js Design Patterns
+Functional Programming in JavaScript
+CoreOS Essentials
+Build Your Own PaaS with Docker
+What You Need to Know about Docker
+Getting Started with Electronic Projects
+Getting Started with Unity 5
+Kali Linux Wireless Penetration Testing Essentials
+Penetration Testing with the Bash shell
+Mastering Metasploit
+Kali Linux – Assuring Security by Penetration Testing
+Building Virtual Pentesting Labs for Advanced Penetration Testing
+Kali Linux Cookbook
+Python Penetration Testing Essentials
+Hyper-V Network Virtualization Cookbook
+Android User Interface Development: Beginner's Guide
+Android Studio Application Development
+.NET 4.5 Parallel Extensions
+Puppet Reporting and Monitoring
+Unity Android Game Development by Example Beginner's Guide
+Getting Started with MariaDB
+E-learning with Camtasia Studio
+Gamification for Employee Engagement
+Nmap 6: Network Exploration and Security Auditing Cookbook
+Microsoft SQL Server 2012 Performance Tuning Cookbook
+Hyper-V Security[eBook]
+BeagleBone Robotic Projects
+Getting Started with Laravel 4
+Burp Suite Essentials
+Apache Maven 3 Cookbook
+Instant Node.js Starter
+Python Data Science Essentials
+PostgreSQL 9.0 High Performance
+Python Data Visualization Cookbook
+Practical Data Analysis
+Hadoop Operations and Cluster Management Cookbook
+Twilio Cookbook: Second Edition
+Mobile Security: How to Secure, Privatize, and Recover Your Devices
+PhantomJS Cookbook
+Building a Home Security System with BeagleBone
+Blender 2.5 HOTSHOT
+Blender 2.6 Cycles: Materials and Textures Cookbook
+Java EE 7 Performance Tuning and Optimization
+R Graph Cookbook
+Salesforce.com Customization Handbook
+Microsoft SQL Server 2012 Integration Services: An Expert Cookbook
+Learning Android Intents
+Mastering Leap Motion
+WebRTC Integrator's Guide
+Spring Security 3.1
+Implementing Lean Six Sigma in 30 Days
+Learning Big Data with Amazon Elastic MapReduce
+Java EE 7 Development with NetBeans 8
+Natural Language Processing with Java and LingPipe Cookbook
+RESTful Java Web Services
+Service Oriented Architecture with Java
+MEAN Web Development
+Learning Single-page Web Application Development
+Web Development with Django Cookbook
+WordPress 3 Complete
+Bootstrap Site Blueprints
+Mastering Grunt
+SQL Server 2014 Development Essentials
+Ruby and MongoDB Web Development Beginner's Guide
+vSphere Design Best Practices
+Instant OpenCV Starter
+Google Apps Script for Beginners
+Learning Neo4j
+Laravel Application Development Blueprints
+Java 7 New Features Cookbook
+iOS Development with Xamarin Cookbook
+Oracle Enterprise Manager 12c Administration Cookbook
+Building a BeagleBone Black Super Cluster
+3D Printing with SketchUp
+Android 5 Programming by Example
+Android Security Cookbook
+Android 3.0 Application Development Cookbook
+Creating Mobile Apps with Appcelerator Titanium
+Xamarin Essentials
+PhoneGap Mobile Application Development Cookbook
+PhoneGap 3 Beginner's Guide
+LiveCode Mobile Development Beginner's Guide
+Xamarin Cross-platform Application Development
+ElasticSearch Cookbook
+Getting Started with SBT for Scala
+PowerPivot for Advanced Reporting and Dashboards
+Instant Minecraft: Pi Edition Coding How-to
+Untangle Network Security
+SQL Server 2012 Reporting Services Blueprints
+Building Web Applications with ArcGIS
+Scratch 2.0 Beginner's Guide: Second Edition
+Learning SQL Server Reporting Services 2012
+SQL Server 2012 with PowerShell V3 Cookbook
+WebRTC Blueprints
+MariaDB Cookbook
+Unity 2D Game Development
+HTML5 Games Development by Example: Beginner’s Guide
+Unity Game Development Scripting
+Getting Started with WebRTC
+RabbitMQ Essentials
+Programming MapReduce with Scalding
+Pig Design Patterns
+Learning OpenShift
+VMware vSphere 5.x Datacenter Design Cookbook
+SOA Made Simple
+Continuous Delivery and DevOps: A Quickstart guide
+Learning Cypher
+Getting Started with Grunt: The JavaScript Task Runner
+AngularJS Services
+Learning AngularJS for .NET developers
+AngularJS Essentials
+PhoneGap and AngularJS for Cross-platform Development
+Mastering Web Application Development with AngularJS
+Python Tools for Visual Studio
+Yii Project Blueprints
+PostgreSQL Server Programming
+Highcharts Cookbook
+Mastering Sublime Text
+Instant Data Intensive Apps with Pandas How-to
+Machine Learning with R
+Microsoft Azure Machine Learning
+R Machine Learning Essentials
+Learning scikit-learn: Machine Learning in Python
+Clojure for Machine Learning
+Haskell Data Analysis Cookbook
+Hadoop Real-World Solutions Cookbook
+Heroku Cloud Application Development
+Android Application Programming with OpenCV
+Heroku Cookbook
+Learning Dart
+Apache Kafka
+Python 2.6 Text Processing: Beginners Guide
+BeagleBone for Secret Agents
+Dart Cookbook
+DevOps Automation Cookbook
+Learning Anime Studio
+Performance Testing With JMeter 2.9
+D Cookbook
+vSphere Virtual Machine Management
+Laravel Design Patterns and Best Practices
+Learning PowerCLI
+Web App Testing Using Knockout.JS
+OpenStack Cloud Security
+OpenStack Networking Cookbook
+Socket.IO Real-time Web Application Development
+Learning Xamarin Studio
+HTML5 and CSS3 Transition, Transformation, and Animation
+Java EE 7 with GlassFish 4 Application Server
+Windows Server 2012 Automation with PowerShell Cookbook
+3D Printing with RepRap Cookbook
+VMware Horizon View 6 Desktop Virtualization Cookbook
+Learning ROS for Robotics Programming
+Implementing Cloud Storage with OpenStack Swift
+Android Database Programming
+Mastering Docker
+Learning OpenStack
+SignalR Real-time Application Cookbook
+Raspberry Pi Computer Vision Programming
+Raspberry Pi Home Automation with Arduino
+Mastering BeagleBone Robotics
+Arduino Home Automation Projects
+C Programming for Arduino
+BeagleBone Home Automation
+Xamarin Mobile Application Development for Android
+Instant Penetration Testing: Setting Up a Test Lab How-to
+Twilio Best Practices
+Getting Started with tmux
+Data Manipulation with R
+Learning Game Physics with Bullet Physics and OpenGL
+Enterprise Security: A Data-Centric Approach to Securing the Enterprise
+Configuration Management with Chef-Solo
+Mastering OpenStack
+Raspberry Pi Networking Cookbook
+Metasploit Penetration Testing Cookbook, Second Edition
+Maven for Eclipse
+WebGL Hotshot
+Hyper-V Best Practices
+SELinux System Administration
+F# for Quantitative Finance
+Responsive Web Design with AngularJS
+Learning jQuery - Fourth Edition
+Mastering JavaScript Design Patterns
+JavaScript and JSON Essentials
+Object-Oriented JavaScript - Second Edition
+AngularJS Directives
+Windows PowerShell 4.0 for .NET Developers
+SketchUp 2014 for Architectural Visualization
+Scaling Apache Solr
+Visual Studio 2013 and .NET 4.5 Expert Cookbook
+Haskell Financial Data Modeling and Predictive Analytics
+Oracle WebLogic Server 12c Advanced Administration Cookbook
+Android SQLite Essentials
+iOS and OS X Network Programming Cookbook
+Visual Studio 2013 Cookbook
+Laravel Application Development Cookbook
+Instant Kali Linux
+Jenkins Continuous Integration Cookbook
+Instant Raspberry Pi Gaming
+Dependency Injection with AngularJS
+Raspberry Pi Projects for Kids
+Learning IPython for Interactive Computing and Data Visualization
+NumPy Cookbook
+Python Testing Cookbook
+Raspberry Pi for Secret Agents
+Building Machine Learning Systems with Python
+Python 3 Object Oriented Programming
+Building Minecraft Server Modifications
+Raspberry Pi Robotic Projects
+Oracle Business Intelligence 11g R1 Cookbook
+Microsoft System Center Virtual Machine Manager 2012 Cookbook
+Cinder Creative Coding Cookbook
+Sonar Code Quality Testing Essentials
+Windows Server 2012 Unified Remote Access Planning and Deployment
+VMware Workstation - No Experience Necessary
+Zabbix 1.8 Network Monitoring
+Groovy for Domain-Specific Languages
+Windows Server 2012 Hyper-V Cookbook
+Backbone.js Testing
+Express Web Application Development
+Getting Started with Unity
+Responsive Web Design by Example : Beginner's Guide
+RubyMotion iOS Development Essentials
+Getting Started with NoSQL
+IBM Cognos Business Intelligence
+IBM Cognos 10 Framework Manager
+Android Native Development Kit Cookbook
+HTML5 Canvas Cookbook
+Tableau Data Visualization Cookbook
+Drupal 7 Mobile Web Development Beginner’s Guide
+Learning Software Testing with Test Studio
+Windows Server 2012 Hyper-V: Deploying Hyper-V Enterprise Server Virtualization Platform
+gnuplot Cookbook
+Visual Studio 2012 Cookbook
+PowerShell 3.0 Advanced Administration Handbook
+Citrix XenServer 6.0 Administration Essential Guide
+HTML5 Web Application Development By Example : Beginner's guide
+Android NDK Beginner’s Guide
+Microsoft System Center 2012 Configuration Manager: Administration Cookbook
+Learning AWS OpsWorks
+MATLAB Graphics and Data Visualization Cookbook
+HTML5 Graphing and Data Visualization Cookbook
+Getting Started with Citrix XenApp 6
+PrimeFaces Cookbook
+OpenStack Cloud Computing Cookbook - Third Edition
+Creating Development Environments with Vagrant
+jQuery Hotshot
+Puppet Essentials
+Learning Chef
+Learning Ansible
+Learning SaltStack
+Learning OpenStack Networking (Neutron)
+OpenStack Essentials
+Docker Cookbook
+Orchestrating Docker
+Raspberry Pi Cookbook for Python Programmers
+Raspberry Pi Robotics Projects - Second Edition
+BackTrack 5 Wireless Penetration Testing Beginner’s Guide
+LaTex Beginner's Guide
+Learning Play! Framework 2
+Mastering Redmine
+Linux Shell Scripting Cookbook
+OpenSceneGraph 3.0: Beginner's Guide
+Practical Maya Programming with Python
+WiX 3.6: A Developer's Guide to Windows Installer XML
+OpenLayers 2.10 Beginner's Guide
+Moodle 2.0 E-Learning Course Development
+Drupal 7 Themes
+Metasploit Penetration Testing Cookbook
+Selenium 2 Testing Tools: Beginner's Guide
+Appcelerator Titanium Smartphone App Development Cookbook
