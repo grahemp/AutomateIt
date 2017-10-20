@@ -1,0 +1,195 @@
+Nexus Source Config,1
+Text Utility,-
+Property Utils,-
+Ansible,-
+VMware AirWatch,-
+Jenkins Job Manager,-
+IBM Rational ClearQuest,-
+Microsoft Visual Studio Team Services (VSTS),-
+LogiGear TestArchitect,7
+IBM Workload Automation,3
+Amazon Web Services (AWS) Lambda,1
+IBM MQ for z/OS  Generate MQSC Commands,-
+Microsoft TFS (Team Foundation Server),13
+OpenShift,2
+File Utils,62
+Oracle WebLogic WLDeploy,21
+z/OS File Source Config,2
+zOS Management Facility,6
+IBM Operational Decision Manager (ODM) Source Config,7
+IBM Integration Bus (formerly WebSphere Message Broker)  CMP,35
+Resource Utilities,-
+Microsoft IIS  Configure,10
+IBM z/TPF Beta,Beta
+Jenkins Pipeline (Formerly Jenkins 2.0),2.6
+Box,-
+zOS Utility,28
+IBM Rational Team Concert  SCM,5
+Mesos Marathon,3
+IBM UrbanCode Deploy for Cloud Sync,4
+PVCS,4
+Nexus,3
+Avnet Talos,-
+IBM UrbanCode Build,6
+Dimensions,7
+Jenkins Publisher (Formerly Jenkins),1.9
+NuGet,5
+WebSphere Application Server  Deployment,107
+IBM Bluemix Auto-Scaling,2
+IBM API Connect,5
+Docker,9
+Oracle WebLogic Scripting Tool (WLST),7
+Docker Compose,22
+IBM Operational Decision Manager (ODM),12
+Tibco,-
+Artifactory,14
+Subversion,13
+IBM WebSphere Liberty,16
+IBM Sterling B2B Integrator,2
+Kubernetes,10
+IBM Security Access Manager (WebSEAL),1
+OpenShift,11
+IBM InfoSphere DataStage,5
+IBM BigFix,2
+Salesforce,7
+Oracle WebLogic Server Resource Management,5
+Artifactory Source Config,15
+Aspera,3
+IBM MobileFirst Platform (formerly Worklight),10
+F5 BIG-IP,16
+Docker Registry,21
+IBM Business Process Manager (WebSphere BPM),9
+Microsoft SSIS,1
+Perforce Helix,6
+Microsoft SharePoint,6
+IBM AppScan Enterprise,12
+IBM Globalization Pipeline,-
+SQL-JDBC,9
+Apprenda,-
+IBM Containers,3
+IBM-MQ,8
+File System (Versioned),8
+JIRA,12
+IBM MobileFirst Platform Foundation on IBM Containers,-
+IBM MaaS360,-
+Informatica,-
+IBM DB2 for z/OS Package,3
+Siebel,-
+PowerShell,5
+ARCAD Deliver for IBM i,-
+CICS CM (Beta),1
+Microsoft TFS_SCM (Team Foundation Server),7
+Slack,5
+New Relic,-
+JBoss-ON,-
+IBM Rational Performance Tester,8.7
+Rational Test Workbench Web UI Tester,9.0.1
+IBM Rational Functional Tester,8.6.0.4
+ScriptRock GuardRail,-
+IBM UrbanCode Deploy Process,6
+WebSphere Application Server  Install,7
+WebSphere Application Server  Configure,58
+IBM Application Security on Cloud,-
+IBM Application Security Testing for Bluemix,-
+IBM UrbanCode Deploy General Utilites,2
+Cloudant,-
+Prolifics Build Conductor for IBM Integration Bus,-
+Microsoft BizTalk,7
+IBM IMS,1
+IBM UrbanCode PHP CLI Tool,-
+CICS TS,38
+WinRS Agent Install,8
+TIBCO,-
+Gradle,-
+Oracle SQLPlus,13
+Oracle WebLogic Application Deployment,7
+IBM WebSphere Application Server  Middleware Configuration,11
+Liquibase,-
+Shell,9
+Microsoft Windows System Tools,23
+JBoss Application Server,17
+DBmaestro,-
+Apple Xcode,-
+IBM UrbanCode Deploy Applications,73
+Web Utilities,9
+Cloud Foundry,22
+IBM Cognos,4
+CA SCM (formerly Harvest),3
+IBM WebSphere Service Registry and Repository,9
+Rundeck,-
+IBM UrbanCode Deploy Versioned File Storage,28
+IBM UrbanCode DBUpgrader,3
+eggPlant,-
+Skytap Automation Pack,-
+Mobile Labs deviceConnect,-
+IBM Rational Asset Manager,1
+Send SMTP Email,-
+7-Zip,-
+Git Install,-
+Node.js,-
+Node-RED,-
+IBM Rational Automation Framework for WebSphere,-
+IBM Installation Manager,4
+Puppet,-
+IBM UrbanCode Deploy Agent Package for Dynamic Cloud Environments,6.1.1
+IBM WebSphere Commerce,3
+HP Unified Functional Testing (QTP),4
+Oracle WebLogic Integration Resource Management,35
+Oracle Service Bus Configuration Management,13
+Oracle WebLogic Server Security Management,2.504117
+Kiuwan,-
+IBM DataPower Configuration Manager,15
+IBM Rational Team Concert  Build,4.0.5
+Apache Hadoop,-
+HP ALM (formerly Quality Center),13
+IBM UrbanCode Release,9
+Datical DB,1.98
+Google Android SDK,3
+Microsoft TFS Work Items,3
+Shunra NV,-
+IBM Rational Asset Manager,7
+Maven,11
+Git,10
+File System,2
+IBM Rational ClearCase ,5
+IBM AnthillPro,5
+Microsoft Windows Failover Clusters,5
+IBM WebSphere Portal,7
+IBM UrbanCode Package Manager,3.455115
+IBM UrbanCode uBuild,8
+Apache Tomcat,7
+TeamCity,10
+System Information,3
+Subversion-Export,4
+ServiceNow,24
+Microsoft Windows Services,9
+IBM Rational Team Concert Work Items,12
+RPM,4
+Linux System Tools,9
+JUnit,3
+IBM InfoSphere Optim,3
+Microsoft IIS MS-Deploy (Azure App Service),3
+Groovy,9
+Selenium,8
+IBM Rational Quality Manager (RQM),11
+Rally,5
+Microsoft Software Installer (MSI),3
+Microsoft SQL Server SQLCmd,6
+Maven Resolve,8
+Microsoft IIS AppCmd,3
+Microsoft IIS AdminScripts,9
+IBM UrbanCode Deploy Versions,64
+IBM UrbanCode Deploy System,63
+IBM UrbanCode Deploy Resources,72
+IBM UrbanCode Deploy Configuration Templates,11
+IBM UrbanCode Deploy Environments,74
+IBM UrbanCode Deploy Components,68
+Rational Integration Tester (RIT, formerly GreenHat),8.7
+IBM UrbanCode Deploy Tools,8
+Citrix NetScaler,8
+Chef,3
+BMC Remedy Action Request System,5
+Apache Ant,7
+Apache HTTP Server,3
+IBM AnthillPro,11
+Amazon EC2,5
